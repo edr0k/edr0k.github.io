@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriel"
+title                    : "@edr0k"
 title_separator          : "-"
 name                     : &name "Gabriel"
-description              : &description "personal description"
+description              : &description "Astrophysicist and Martial Artist"
 url                      : https://edr0k.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edr0k/edr0k.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Astrophycisist"
   location         : "Sâo Paulo/BR"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "IAG-USP"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.br/citations?hl=en&authuser=1&user=1P12n58AAAAJ"
+  email            : "gabriel.fabiano.souza@usp.br"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/gabsfdesouza/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2426-8792"
   pinterest        :
-  soundcloud       :
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            :  "https://steamcommunity.com/profiles/76561198056675369/" 
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
