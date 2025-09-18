@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Data Science Portfolio"
     url: /portfolio/
+  - title: "Blog"      # <-- Add this line
+    url: /blog/     # <-- And this line
   - title: "Resume"
     url: /cv/
   - title: "Publications"
