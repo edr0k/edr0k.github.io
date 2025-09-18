@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Data Science Portfolio"
+    url: /portfolio/
+  - title: "Resume"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
