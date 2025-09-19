@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel"
-  avatar           : profile.png - filename of avatar image placed in /images/
+  avatar           : "profile.png"
   bio              : "Data Scientist | Astrophysicist"
-  location         : "Sâo Paulo, Brazil"
+  location         : "Sâo Paulo/BR"
   employer         : "IAG-USP"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=1P12n58AAAAJ"
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           : 
+  lastfm           :
   linkedin         : "gabsfdesouza"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2426-8792"
   pinterest        :
