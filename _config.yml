@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "Data Scientist | Astrophysicist"
-  location         : "Sâo Paulo/BR"
+  location         : "Sâo Paulo, Brazil"
   employer         : "IAG-USP"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=1P12n58AAAAJ"
