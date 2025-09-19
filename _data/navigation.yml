@@ -8,5 +8,3 @@ main:
     url: /blog/     # <-- And this line
   - title: "Resume"
     url: /cv/
-  - title: "Publications"
-    url: /publications/
