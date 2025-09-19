@@ -5,8 +5,6 @@ excerpt: "About me"
 author_profile: true
 ---
 
-{% include figure image_path='/images/bio-photo.png' class='align-center' %}
-
 I am a Data Scientist with a strong foundation in Physics and a Master's degree in Astrophysics from the University of São Paulo (USP). With over five years of experience, my passion lies in using machine learning, statistical modeling, and large-scale data analysis to solve complex problems and transform data into actionable insights.
 
 ## From the Cosmos to Data: My Journey 🚀
