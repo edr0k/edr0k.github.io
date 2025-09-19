@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel"
-  avatar           : # "profile.png" - filename of avatar image placed in /images/
+  avatar           : profile.png - filename of avatar image placed in /images/
   bio              : "Data Scientist | Astrophysicist"
   location         : "Sâo Paulo, Brazil"
   employer         : "IAG-USP"
