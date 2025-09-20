@@ -1,7 +1,8 @@
 ---
-title: "Project 3: Large-Scale Analysis of Galaxy Spectra"
+title: "Large-Scale Analysis of Galaxy Spectra"
 excerpt: "This project involved building Python data pipelines and applying Bayesian methods to process and analyze over 100,000 galaxy spectra."
 permalink: /portfolio/galaxy-analysis/
+order: 3
 ---
 
 * **Problem**: To process and analyze a massive dataset of over 100,000 galaxy spectra to extract key physical characteristics.

@@ -1,7 +1,8 @@
 ---
-title: "Project 1: Predictive Modeling of Stellar Cluster Properties "
+title: "Predictive Modeling of Stellar Cluster Properties "
 excerpt: ""
 permalink: /portfolio/stellar-clusters/
+order: 1
 ---
 
 * **Problem**: To develop accurate statistical models to determine the physical parameters (ages and metallicities) of hundreds of stellar clusters from photometric data.

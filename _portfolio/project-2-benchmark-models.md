@@ -1,7 +1,8 @@
 ---
-title: "Project 2: Benchmarking Machine Learning Models for Parameter Estimation"
+title: "Benchmarking Machine Learning Models for Parameter Estimation"
 excerpt: ""
 permalink: /portfolio/benchmark-models/
+order: 2
 ---
 
 * **Problem**: To identify the most accurate and efficient machine learning and statistical methods for estimating galaxy parameters from complex astronomical data.
