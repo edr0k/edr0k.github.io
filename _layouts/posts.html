@@ -3,10 +3,6 @@ layout: default
 ---
 
 <div class="initial-content-wrap">
-  {% if page.author_profile %}
-    {% include sidebar.html %}
-  {% endif %}
-
   <div id="main" role="main" class="container">
     <div class="archive">
       {% unless page.header.overlay_color or page.header.overlay_image %}
@@ -18,4 +14,8 @@ layout: default
       {% endfor %}
     </div>
   </div>
+
+  {% if page.author_profile %}
+    {% include sidebar.html %}
+  {% endif %}
 </div>
